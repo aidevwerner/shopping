@@ -1,0 +1,10 @@
+<svg width="200" height="76" viewBox="0 0 680 260" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>Cool Shop logo</title>
+<desc>Cool Shop logo: a teal shopping bag icon beside the wordmark "Cool Shop" in navy, with the tagline "we put the cool in site" underneath.</desc>
+<rect x="230" y="60" width="90" height="80" rx="10" fill="#0f766e"/>
+<path d="M250 60 v-14 a25 25 0 0 1 50 0 v14" fill="none" stroke="#0f766e" stroke-width="8" stroke-linecap="round"/>
+<circle cx="250" cy="100" r="6" fill="#ffffff"/>
+<circle cx="290" cy="100" r="6" fill="#ffffff"/>
+<text x="340" y="105" font-family="Arial, sans-serif" font-size="42" font-weight="700" fill="#1e293b">Cool Shop</text>
+<text x="341" y="132" font-family="Arial, sans-serif" font-size="15" fill="#64748b">we put the cool in site</text>
+</svg>
